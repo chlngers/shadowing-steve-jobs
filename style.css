@@ -10,7 +10,7 @@ h2 {
 a {
     font-family: Tahoma, Geneva, sans-serif;
   }  
-@media only screen and (min-width: 360px) and (max-width: 767px) { 
+@media only screen and (min-device-width: 360px) and (max-device-width: 767px) { 
 div{
         font-size: 70px;
     }
@@ -27,7 +27,7 @@ div{
         font-size: 60px;
     }
 }
-  @media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (-webkit-device-pixel-ratio : 3){
+  /*@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (-webkit-device-pixel-ratio : 3){
     div{
         font-size: 70px;
     }
@@ -43,4 +43,4 @@ div{
     a{
         font-size: 60px;
     }
-}
+}*/
