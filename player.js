@@ -13,7 +13,7 @@ var part1 = ["I am honored to be with you today for your commencement from one o
 "So my parents, who were on a waiting list, got a call in the middle of the night asking:", "We got an unexpected baby boy, do you want him?", "They said: Of course.",
 "My biological mother found out later that my mother had never graduated from college and that my father had never graduated from high school.",
 "She refused to sign the final adoption papers.",
-"She only relented a few months later when my parents promised that I would someday go to college.",
+"She only relented a few months later when my parents promised that I would go to college.",
 "This was the start in my life."]
 
 var part2 = ["And 17 years later I did go to college.",
